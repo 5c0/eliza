@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -61,16 +61,20 @@ packages/
       2025-10-22.md
       2025-10-23.md
       2025-10-24.md
+      2025-10-25.md
 ```
 
 # Files
 
-## File: packages/docs/news/2025-10-24.md
+## File: packages/docs/news/2025-10-25.md
 ```markdown
-# Daily Report - 2025-10-24
+# Daily Report - 2025-10-25
 
 ## GitHub Activity Summary
-- From October 24-25, 2025, the elizaOS/eliza repository showed minimal activity with no new pull requests opened or merged and no new issues created. The repository maintained 2 active contributors during this period.
+- On October 25, 2025, the elizaOS/eliza repository showed modest activity with 1 new pull request opened (though none were merged), no new issues created, and 3 active contributors working on the project.
+
+## Pull Requests
+- PR #6094 by @alex-nax titled 'feat: use custom storage service if found' has no specified state in the provided information. (Source: [https://github.com/elizaOS/eliza/pull/6094](https://github.com/elizaOS/eliza/pull/6094))
 
 ## Summary for github_other
 - The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
@@ -289,6 +293,17 @@ packages/
 
 ## Pull Requests
 - PR #6093 titled 'feat: create @elizaos/react package with headless React hooks' by @wtfsayo has no specified state in the provided information. (Source: https://github.com/elizaOS/eliza/pull/6093)
+
+## Summary for github_other
+- The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
+```
+
+## File: packages/docs/news/2025-10-24.md
+```markdown
+# Daily Report - 2025-10-24
+
+## GitHub Activity Summary
+- From October 24-25, 2025, the elizaOS/eliza repository showed minimal activity with no new pull requests opened or merged and no new issues created. The repository maintained 2 active contributors during this period.
 
 ## Summary for github_other
 - The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
