@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -95,20 +95,20 @@ packages/
       2025-11-25.md
       2025-11-26.md
       2025-11-27.md
+      2025-11-28.md
 ```
 
 # Files
 
-## File: packages/docs/news/2025-11-27.md
+## File: packages/docs/news/2025-11-28.md
 ```markdown
-# Daily Report - 2025-11-27
+# Daily Report - 2025-11-28
 
 ## GitHub Activity Summary
-- From November 27-28, 2025, the elizaOS/eliza repository showed active development with 1 new pull request opened and 2 pull requests merged. The repository had no new issues reported during this period. There were 4 active contributors participating in the project's development.
+- On November 28, 2025, the elizaOS/eliza repository had minimal activity with no new pull requests opened or merged, 1 new issue created, and 1 active contributor during this period.
 
-## Pull Requests
-- PR #6192 by @wtfsayo titled 'fix: dynamic prompt normalization follow-up' is merged, addressing issues with prompt normalization.
-- PR #6167 titled 'feat: Entity-level RLS & Security Improvements' is merged, implementing row-level security and enhancing security features. (Source: https://github.com/elizaOS/eliza/pull/6167)
+## Issues
+- Issue #6193 titled 'Multi-asset charts' by @borisudovicic is OPEN with no comments since its creation on November 28, 2025. (Source: https://github.com/elizaOS/eliza/issues/6193)
 
 ## Summary for github_other
 - The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
@@ -855,6 +855,21 @@ packages/
 
 ## Pull Requests
 - PR #6170 titled 'fix(core): resolve TS2358 instanceof error' by @standujar is merged, addressing a TypeScript instanceof error in the core module.
+
+## Summary for github_other
+- The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
+```
+
+## File: packages/docs/news/2025-11-27.md
+```markdown
+# Daily Report - 2025-11-27
+
+## GitHub Activity Summary
+- From November 27-28, 2025, the elizaOS/eliza repository showed active development with 1 new pull request opened and 2 pull requests merged. The repository had no new issues reported during this period. There were 4 active contributors participating in the project's development.
+
+## Pull Requests
+- PR #6192 by @wtfsayo titled 'fix: dynamic prompt normalization follow-up' is merged, addressing issues with prompt normalization.
+- PR #6167 titled 'feat: Entity-level RLS & Security Improvements' is merged, implementing row-level security and enhancing security features. (Source: https://github.com/elizaOS/eliza/pull/6167)
 
 ## Summary for github_other
 - The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
