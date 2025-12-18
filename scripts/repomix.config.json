@@ -91,6 +91,8 @@
     "packages/docs/news/2025-12-04.md",
     "packages/docs/news/2025-12-05.md",
     "packages/docs/news/2025-12-06.md",
+    "packages/docs/news/2025-12-16.md",
+    "packages/docs/news/2025-12-17.md",
     "packages/docs/partners/**/brief.mdx",
     "packages/docs/static/packages/**/*.md"
   ],
