@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -114,40 +114,49 @@ packages/
       2025-12-23.md
       2025-12-24.md
       2025-12-25.md
+      2025-12-26.md
 ```
 
 # Files
 
-## File: packages/docs/news/2025-12-25.md
+## File: packages/docs/news/2025-12-26.md
 ```markdown
-# ElizaOS Discord Summary - December 25, 2025
+# ElizaOS Update - December 26, 2025
 
-## Token Migration Status
-- Migration from AI16Z to ElizaOS implemented with 1:6 token swap ratio
-- Korean exchanges (Bithumb, Coinone, and Korbit) supporting the migration
-- Current fully diluted valuation (FDV) at approximately $22M
+## ElizaOS Cloud Launch
 
-## Market Performance
-- Token price showing consistent pattern movements
-- Market comparison data collected against competitors like Pippin ($536M) and Virtuals ($693M)
+- ElizaOS Cloud officially launched, enabling users to build and deploy AI agents
+- Multiple community members began creating agents and sharing experiences
+- Platform gaining traction with Twitter posts highlighting new projects
+- Team member CJ highlighted third-party project "Aiko" built on ElizaOS Cloud
 
-## Leadership Updates
-- Project founder Shaw active in core-devs channel
-- Shaw posted on Farcaster about repairing his "relationship with the evil empire"
-- Team members like Odilitime actively responding to community inquiries
-- Technical explanations provided regarding Chainlink CCIP compatibility requirements
+## Community Development
 
-## Development Progress
-- Ongoing work on Eliza Cloud with revenue generation capabilities for token buybacks
-- Plans shared to integrate Babylon and Jeju with Eliza Cloud for authentication and inference
-- Potential addition of 350,000 users to the platform through integrations
-- Core developers sharing AI coding workflows
-- Discussions about creating an ElizaOS Prompt Engineering Book
+- Various agents being created including themed agents (Satoshi, Pepe, Trump)
+- Community members encouraged to announce their projects in Discord channels
+- Active discussions about Jeju Network, which relates to decentralized hosting and agents
+- Team confirmed decentralized agents are central to the project vision
 
-## Community Engagement
-- Active discussions in multiple Discord channels
-- Community members sharing personal experiences
-- Mixed sentiment with continued participation across channels
+## Technical Development
+
+### Recent Pull Requests
+- PR #6286: Enhanced multi-step workflow with retry logic and parameter extraction
+- PR #6285: Standardized naming conventions for message server routes
+- Core team actively working on platform improvements
+- Fixes for OpenAI streaming issues implemented
+
+### Development Discussions
+- Implementation of single sign-on (SSO) system being discussed
+- Team members actively helping resolve technical issues with agent deployment
+
+## GitHub Activity (Dec 26-27)
+- 2 new pull requests opened
+- 2 active contributors working on the project
+
+## Market Activity
+- ElizaOS token experiencing price volatility
+- Discussions around token utility and recent migration
+- Community members expressing optimism about long-term potential based on cloud platform development
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -1305,6 +1314,38 @@ packages/
 ### Repository Activity
 - 4 new issues opened
 - 2 contributors active on the project during December 24-25, 2025
+```
+
+## File: packages/docs/news/2025-12-25.md
+```markdown
+# ElizaOS Discord Summary - December 25, 2025
+
+## Token Migration Status
+- Migration from AI16Z to ElizaOS implemented with 1:6 token swap ratio
+- Korean exchanges (Bithumb, Coinone, and Korbit) supporting the migration
+- Current fully diluted valuation (FDV) at approximately $22M
+
+## Market Performance
+- Token price showing consistent pattern movements
+- Market comparison data collected against competitors like Pippin ($536M) and Virtuals ($693M)
+
+## Leadership Updates
+- Project founder Shaw active in core-devs channel
+- Shaw posted on Farcaster about repairing his "relationship with the evil empire"
+- Team members like Odilitime actively responding to community inquiries
+- Technical explanations provided regarding Chainlink CCIP compatibility requirements
+
+## Development Progress
+- Ongoing work on Eliza Cloud with revenue generation capabilities for token buybacks
+- Plans shared to integrate Babylon and Jeju with Eliza Cloud for authentication and inference
+- Potential addition of 350,000 users to the platform through integrations
+- Core developers sharing AI coding workflows
+- Discussions about creating an ElizaOS Prompt Engineering Book
+
+## Community Engagement
+- Active discussions in multiple Discord channels
+- Community members sharing personal experiences
+- Mixed sentiment with continued participation across channels
 ```
 
 
