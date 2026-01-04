@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -122,56 +122,47 @@ packages/
       2025-12-31.md
       2026-01-01.md
       2026-01-02.md
+      2026-01-03.md
 ```
 
 # Files
 
-## File: packages/docs/news/2026-01-02.md
+## File: packages/docs/news/2026-01-03.md
 ```markdown
-# ElizaOS Development Update (2026-01-02)
+# ElizaOS Development and Community Updates - January 2026
 
-## GitHub Activity
+## Platform Overview
+- ElizaOS is an open-source AI framework for building autonomous agents
+- Platform gaining traction, mentioned among top Solana runners in the last 24 hours
+- Community members discussing potential growth in 2026
 
-### Recent Issues
-- Issue #6315: Proposal to change free credits from $5 to $1
-- Issue #6314: Display chat number on public agent cards
-- Issue #6313: Separation of public agent states
-- Issue #6312: Limiting messages for non-signed up users to 2-3 messages
-- Issue #6311: Improvement of chat summaries
+## Technical Capabilities
+- Framework provides databases, embeddings, model abstraction, APIs, composable tool concepts
+- Supports multiple AI models including OpenAI and Anthropic
+- Designed to make building AI agents easier
 
-### Pull Requests
-- PR #6301: License year updated to 2026 (merged)
+## Development Progress
+- Stan implemented optimized provider handling in multi-step mode
+- New logging system introduced with format linter
+- PR #6316 fixed SQL plugin using sql.raw() for SET LOCAL commands
+- PR #6263 refactored default message service for more efficient provider handling
 
-### Repository Stats
-- 14 new issues opened
-- 1 pull request merged
-- 4 active contributors
+## New Projects
+- roseOS introduced as a project built on ElizaOS
+- Focuses on autonomous systems with explicit agency boundaries
+- Implements constraint-aware reasoning and accountability layers
 
-## Discord Community Updates
+## Community Initiatives
+- Discussions about creating an agentic AI crash course
+- Course would serve as lead funnel for ElizaOS cloud services
 
-### Development Progress
-- Core developers enhancing multi-step workflows with retry logic and parameter extraction
-- Stan reviewing PRs while dealing with laryngitis
-- Odilitime working on updates to plugin-github and creating plugin-git
-- Work on making singleShot support parameters
-
-### Community Discussions
-- Discussions about importing entire GitHub codebases as agents
-- Growing excitement about the emerging 'agentic economy'
-- Authentication systems for AI being referenced
-- Potential for AI agents to transform various industries
-
-### Token Migration
-- Users discussing AI16z token migration processes
-- Questions about tokens purchased after the snapshot
-
-### Partner Initiatives
-- Discussions about using AI infrastructure agents to reduce costs
-- Potential development of a 'cost reduction and migration agent' for businesses
-- Specific mention of GitHub project for managing AWS infrastructure using natural language
-
-## Completed Items
-- License year updated to 2026 through PR #6301
+## GitHub Activity (Jan 3-4, 2026)
+- 1 new pull request (merged)
+- 2 new issues opened
+- 4 active developers contributing
+- Issues reported:
+  - #6318: Scroll should work on whole page
+  - #6317: Connect wallet should go straight to wallet options
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -1586,6 +1577,54 @@ packages/
 
 ## GitHub Activity
 - The elizaos/eliza repository was maintained during January 1-2, 2026
+```
+
+## File: packages/docs/news/2026-01-02.md
+```markdown
+# ElizaOS Development Update (2026-01-02)
+
+## GitHub Activity
+
+### Recent Issues
+- Issue #6315: Proposal to change free credits from $5 to $1
+- Issue #6314: Display chat number on public agent cards
+- Issue #6313: Separation of public agent states
+- Issue #6312: Limiting messages for non-signed up users to 2-3 messages
+- Issue #6311: Improvement of chat summaries
+
+### Pull Requests
+- PR #6301: License year updated to 2026 (merged)
+
+### Repository Stats
+- 14 new issues opened
+- 1 pull request merged
+- 4 active contributors
+
+## Discord Community Updates
+
+### Development Progress
+- Core developers enhancing multi-step workflows with retry logic and parameter extraction
+- Stan reviewing PRs while dealing with laryngitis
+- Odilitime working on updates to plugin-github and creating plugin-git
+- Work on making singleShot support parameters
+
+### Community Discussions
+- Discussions about importing entire GitHub codebases as agents
+- Growing excitement about the emerging 'agentic economy'
+- Authentication systems for AI being referenced
+- Potential for AI agents to transform various industries
+
+### Token Migration
+- Users discussing AI16z token migration processes
+- Questions about tokens purchased after the snapshot
+
+### Partner Initiatives
+- Discussions about using AI infrastructure agents to reduce costs
+- Potential development of a 'cost reduction and migration agent' for businesses
+- Specific mention of GitHub project for managing AWS infrastructure using natural language
+
+## Completed Items
+- License year updated to 2026 through PR #6301
 ```
 
 
