@@ -110,6 +110,7 @@
     "packages/docs/news/2026-01-01.md",
     "packages/docs/news/2026-01-02.md",
     "packages/docs/news/2026-01-03.md",
+    "packages/docs/news/2026-01-04.md",
     "packages/docs/partners/**/brief.mdx",
     "packages/docs/static/packages/**/*.md"
   ],
