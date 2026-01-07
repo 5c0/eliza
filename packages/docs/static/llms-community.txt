@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -125,65 +125,40 @@ packages/
       2026-01-03.md
       2026-01-04.md
       2026-01-05.md
+      2026-01-06.md
 ```
 
 # Files
 
-## File: packages/docs/news/2026-01-05.md
+## File: packages/docs/news/2026-01-06.md
 ```markdown
-# ElizaOS Updates - January 5, 2026
+# ElizaOS Discord Community Update - January 6, 2026
 
-## GitHub Updates
+## Community Discussions
+- Active discussions on development, plugins, and technical issues
+- Odilitime (lead dev on Spartan DeFi utility project) helping new developers get started
+- New blockchain + AI engineer (aicodeflow) joined to contribute to agent autonomy with constraints
+- Community members sharing resources like RSS feeds for dashboard integration
 
-### Recent Code Implementations
-- New unified hooks system with multi-transport support (HTTP, SSE, WebSocket) in PR #6300
-- SQL plugin fixes:
-  - Fixed parameterization issues with SQL SET LOCAL commands using sql.raw() (PR #6316)
-  - Added pool configuration, error handling, and fixed PGLite shutdown issues (PR #6323)
-- CI improvements:
-  - Updated permissions for cursor bot to trigger Claude workflows (PR #6328)
-  - Upgraded Claude workflows to use Opus 4.5 with new security and maintenance jobs (PR #6324)
+## Technical Development
+- Stan working on improving latency on the monorepo with multiple PRs planned
+- Odilitime shared that Neo rolled out a Rust-inspired ElizaOS called Zoey (zoey.xyz)
+- ElizaOS featured in a tweet about AI bubbles
+- Integration opportunities discussed including x402 protocol integration library (npm i @alleyboss/micropay-solana-x402-paywall)
 
-### Recent Pull Requests
-- PR #6329: Added CachedDatabaseAdapter with LRU caching capabilities to SQL plugin
-- PR #6323: Fixed SQL plugin issues including pool configuration, error handling, and PGLite shutdown
-- PR #6324: Upgraded Claude workflows with Opus 4.5 and added new security/maintenance jobs
+## Community Engagement
+- Regular greetings and casual conversations occurring
+- Discussions about DegenAI and its relationship with ElizaOS
+- Mentions of "earning agents" that make money for users
+- Predictions about ElizaOS going "parabolic" again based on GitHub activity
 
-### GitHub Activity (Jan 5-6, 2026)
-- 5 new pull requests (all merged)
-- 2 new issues opened
-- 10 active contributors participating
+## GitHub Activity (Jan 6-7, 2026)
+- 2 new issues opened in the elizaos/eliza repository
+- 2 active contributors working on the project during this period
 
-## Community Updates
-
-### ElizaOS Ecosystem
-- Seppmos released a comprehensive video deep-dive on ElizaOS covering:
-  - Full AI agent stack
-  - Eliza Cloud (for launching agents)
-  - Babylon prediction markets
-  - Revamped $ElizaOS tokenomics
-
-### Babylon - AI Prediction Game
-- Fast social prediction game where humans and AI agents react to live events
-- Platform will allow betting on AI agent competitions
-- Creating a colosseum-like environment for AI agents
-
-### Developer Updates
-- Anthropic API integration with OpenAI API key for embeddings on MCP servers
-- Core developers considering turning every plugin into a skill
-- New Claude Code Voice Skill allows talking to Claude about projects over phone
-- Nano Banana image generation tool receiving positive feedback
-- Council implementing monthly/quarterly/annual retrospective discussions
-
-### Open Source Projects
-- Oh-My-OpenCode: Battery-included OpenCode plugin with async subagents
-- Claude Code Voice Skill: Talk to Claude about projects over the phone
-- ERC-8004 contracts being finalized
-- Community members building AI projects including market-driven emotional states for AI characters
-
-### Community Reminders
-- Official ticket system available through designated channel
-- Anthropic keys rotated and shared with core developers
+## Recent GitHub Issues
+- Issue #6332: Performance problem with Turbo build consuming excessive memory (over 21GB)
+- Issue #6331: Bug where users encounter "Model not found" error when using agent IDs with API endpoints
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -1725,6 +1700,63 @@ packages/
 - Memory usage observations during builds (21GB to 27GB+)
 - Significant work on Eliza knowledge data pipelines
 - Documentation and presentation phases coming soon
+```
+
+## File: packages/docs/news/2026-01-05.md
+```markdown
+# ElizaOS Updates - January 5, 2026
+
+## GitHub Updates
+
+### Recent Code Implementations
+- New unified hooks system with multi-transport support (HTTP, SSE, WebSocket) in PR #6300
+- SQL plugin fixes:
+  - Fixed parameterization issues with SQL SET LOCAL commands using sql.raw() (PR #6316)
+  - Added pool configuration, error handling, and fixed PGLite shutdown issues (PR #6323)
+- CI improvements:
+  - Updated permissions for cursor bot to trigger Claude workflows (PR #6328)
+  - Upgraded Claude workflows to use Opus 4.5 with new security and maintenance jobs (PR #6324)
+
+### Recent Pull Requests
+- PR #6329: Added CachedDatabaseAdapter with LRU caching capabilities to SQL plugin
+- PR #6323: Fixed SQL plugin issues including pool configuration, error handling, and PGLite shutdown
+- PR #6324: Upgraded Claude workflows with Opus 4.5 and added new security/maintenance jobs
+
+### GitHub Activity (Jan 5-6, 2026)
+- 5 new pull requests (all merged)
+- 2 new issues opened
+- 10 active contributors participating
+
+## Community Updates
+
+### ElizaOS Ecosystem
+- Seppmos released a comprehensive video deep-dive on ElizaOS covering:
+  - Full AI agent stack
+  - Eliza Cloud (for launching agents)
+  - Babylon prediction markets
+  - Revamped $ElizaOS tokenomics
+
+### Babylon - AI Prediction Game
+- Fast social prediction game where humans and AI agents react to live events
+- Platform will allow betting on AI agent competitions
+- Creating a colosseum-like environment for AI agents
+
+### Developer Updates
+- Anthropic API integration with OpenAI API key for embeddings on MCP servers
+- Core developers considering turning every plugin into a skill
+- New Claude Code Voice Skill allows talking to Claude about projects over phone
+- Nano Banana image generation tool receiving positive feedback
+- Council implementing monthly/quarterly/annual retrospective discussions
+
+### Open Source Projects
+- Oh-My-OpenCode: Battery-included OpenCode plugin with async subagents
+- Claude Code Voice Skill: Talk to Claude about projects over the phone
+- ERC-8004 contracts being finalized
+- Community members building AI projects including market-driven emotional states for AI characters
+
+### Community Reminders
+- Official ticket system available through designated channel
+- Anthropic keys rotated and shared with core developers
 ```
 
 
