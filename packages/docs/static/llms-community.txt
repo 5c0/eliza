@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -128,81 +128,115 @@ packages/
       2026-01-06.md
       2026-01-07.md
       2026-01-08.md
+      2026-01-09.md
 ```
 
 # Files
 
-## File: packages/docs/news/2026-01-08.md
+## File: packages/docs/news/2026-01-09.md
 ```markdown
-# ElizaOS Daily Report - January 8, 2026
+## ElizaOS Development Updates - January 9, 2026
 
-## Korean Exchange Developments
+### Community Engagement and Discussions
 
-Multiple Korean exchanges including Bithumb, Coinone, and Korbit announced termination of trading support for AI16Z and ElizaOS. Trading service termination is scheduled for February 12, 2026, with deposit and withdrawal services ending March 12, 2026. Korean exchange notices were shared confirming the decision.
+- Community members engaged in conversations ranging from personal topics to philosophical discussions about societal influence and personal agency
+- Users expressed excitement about upcoming developments in the ElizaOS ecosystem
+- Humorous exchanges and cultural references were shared throughout the day
 
-## Community Discussions
+### Mental Health Technology Integration
 
-### HyperScape Game Development
+- Discussion emerged around Behavidence's Dopa One AI algorithm for mental health monitoring
+- The technology monitors and detects brain dopamine level fluctuations through mobile phones and wearable devices
+- Provides daily feedback on mental well-being based on digital behavior patterns with similarity scores for ADHD, Depression, and Anxiety
+- Interest expressed in integrating this technology into future ElizaOS Phone applications for agent-based user mental health monitoring
 
-- Game has been in development for 6 years
-- Newly added skills include Fishing, Mining, Cooking, Firemaking, and Smithing
-- Prayer skill coming next
-- Community expressed excitement about earning cryptocurrency through gameplay
+### Upcoming Events
 
-### Jeju Layer 2 and The Bazaar
+- Twitter Space scheduled for Tuesday, January 13th at 7pm UTC
+- Event hosted with Solana Foundation, PayAI, and Quantu
+- Focus on deep diving into 8004 and its utilization by Eliza Cloud
 
-- Jeju identified as a decentralized Layer 2 blockchain focused on powering AI applications
-- The Bazaar described as a decentralized marketplace application running on Jeju
-- Functions as an app store for agents
-- Community expressed strong bullish sentiment about the technology
+### Technical Development and Discussions
 
-## Technical Development
+#### ElizaCloud Platform
 
-### Data Collection and AI Training Concepts
+- Developers confirmed app creator function is operational
+- Discussions held about Twitter API requirements for running Twitter agents
+- Questions addressed regarding billing page access for credit top-ups
 
-- Proposals for creating an Eliza Phone App for data sharing in exchange for reputation points and rewards
-- Use cases discussed including motion capture suits for various activities
-- Concept of earning royalties from inference when androids use trained models
-- Partnership ideas with companies to integrate Inertial Motion Capture Suits
+#### Advanced AI Model Integration
 
-### Context Graphs and Data Foundation
+- Developer shared experiences with MiniMax M2 model featuring Anthropic endpoint compatible with Claude Code
+- Highlighted interleaved thinking approach for long-running tasks
+- Collaboration proposed to convert ElizaOS plugins into skills for interoperability with other agent tools
+- Focus areas include Discord and blockchain plugins
 
-- Core developers shared article about context graphs representing trillion-dollar opportunity for AI
-- Team emphasized strong data foundation for building context graphs
-- High-quality daily, weekly, and monthly insights generated from agentic workflows
-- Focus on integrating insights into last-mile applications including agents, webhooks, and apps
+#### Skills Implementation
 
-## New Projects and Integrations
+- Technical implementation discussed for skills as folders containing markdown instructions and deterministic scripts
+- Solution proposed using hooks to enable Claude to use skills without explicit instruction
+- Workflow shared for building specialized skills that chain together (collecting information, filling PDFs, storing files, displaying results)
+- Successful implementation of linking subagents referenced
 
-### KAMIYO AI
+#### Infrastructure and Tooling
 
-- Launched using ElizaOS plugin
-- Described as trust infrastructure for autonomous agents
-- Features escrow-protected payments and on-chain dispute resolution
-- Includes 5 actions, 3 providers, and 2 evaluators
+- Developer showcased VPS setup running Claude Code with Kimi K2, accessible via Happy on iOS
+- Dan Boneh, Stanford cryptographer, confirmed as involved with 8004 development
+- Suggestion provided to use deepface library for facial recognition and attribute analysis projects
 
-### BountyBoard
+### Eliza 2.0 Vision
 
-- Shared as decentralized platform for Web3 community activities
-- Uses Eliza framework
+- Major vision announced for Eliza 2.0 with TypeScript, Rust, and Python support
+- FFI plugin interop planned between languages
+- New version will eliminate API, server, CLI, and projects in favor of Claude-friendly documented runtime
+- Same abstractions across three languages with examples for common use cases
+- Ported version with available branch confirmed
 
-### Plugin Ecosystem Expansion
+### Plugin Development Progress
 
-- New plugin @kamiyo/eliza added to registry
-- SQL plugin received updates including Neon serverless support
-- Improved Row-Level Security (RLS) for enhanced security and scalability
+#### Authentication and Database
 
-## Technical Support Activities
+- OAuth2 PKCE authentication implemented in plugin-twitter for enhanced security
+- Backward compatibility added for 3-legged login and Twitter/X authentication approval
+- Neon serverless database support added to plugin-sql package
+- Row-Level Security (RLS) improvements implemented
+- pgcrypto extension installation fix completed for PGLite
+- withEntityContext() integrated into RLS tests
+- ENABLE_DATA_ISOLATION=true added to CI
 
-- Users received assistance with migration issues through support channels
-- Questions addressed about deploying in ElizaCloud via containers
-- Confirmation provided that both Pglite and PostgreSQL options work for deployment
-- Discussion about X (Twitter) functionality and API requirements
+#### Developer Experience
 
-## Market and Infrastructure Discussion
+- Comprehensive hot reload functionality enabled for backend development
+- New router plugin (plugin-aimo-router) added to registry
 
-- Core developers discussed Fleeks 2026 outlook focusing on efficient inference
-- Developer shared experience with inference market based on models offered over the last year
+### Leaderboard and Content Updates
+
+- Upcoming updates announced for ElizaOS leaderboard
+- Blog post in progress as part 2 to The Meritverse article
+- Article discusses combining MMORPG lessons to create unified, rewarding, and meritocratic online ecosystem
+- Open-source tools planned for custom 3D avatars and wearables
+
+### Work in Progress
+
+- V2.0.0 release with significant changes
+- Build performance optimizations in TurboRepo configurations
+- MMORPG-style character system planning for leaderboard API
+
+### UI/UX Enhancements
+
+- Input fields for personality traits refinement initiated
+- Agent status visibility improvements in dashboard planned
+- Clickable signup prompts implementation started
+- User redirection to previous chat sessions after login in development
+
+### MMORPG Character System Features
+
+- Class evolution trees designed
+- User-chosen evolution paths implemented
+- Class history tracking added
+- Unique visual identities created for each Order
+- Class respec functionality developed
+- Configurable character class thresholds established
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -1894,6 +1928,79 @@ Multiple Korean exchanges including Bithumb, Coinone, and Korbit announced termi
 ## UI Enhancement
 
 - Proposed chat box component improvement (Issue #6310) for dynamic sizing that expands as users type
+```
+
+## File: packages/docs/news/2026-01-08.md
+```markdown
+# ElizaOS Daily Report - January 8, 2026
+
+## Korean Exchange Developments
+
+Multiple Korean exchanges including Bithumb, Coinone, and Korbit announced termination of trading support for AI16Z and ElizaOS. Trading service termination is scheduled for February 12, 2026, with deposit and withdrawal services ending March 12, 2026. Korean exchange notices were shared confirming the decision.
+
+## Community Discussions
+
+### HyperScape Game Development
+
+- Game has been in development for 6 years
+- Newly added skills include Fishing, Mining, Cooking, Firemaking, and Smithing
+- Prayer skill coming next
+- Community expressed excitement about earning cryptocurrency through gameplay
+
+### Jeju Layer 2 and The Bazaar
+
+- Jeju identified as a decentralized Layer 2 blockchain focused on powering AI applications
+- The Bazaar described as a decentralized marketplace application running on Jeju
+- Functions as an app store for agents
+- Community expressed strong bullish sentiment about the technology
+
+## Technical Development
+
+### Data Collection and AI Training Concepts
+
+- Proposals for creating an Eliza Phone App for data sharing in exchange for reputation points and rewards
+- Use cases discussed including motion capture suits for various activities
+- Concept of earning royalties from inference when androids use trained models
+- Partnership ideas with companies to integrate Inertial Motion Capture Suits
+
+### Context Graphs and Data Foundation
+
+- Core developers shared article about context graphs representing trillion-dollar opportunity for AI
+- Team emphasized strong data foundation for building context graphs
+- High-quality daily, weekly, and monthly insights generated from agentic workflows
+- Focus on integrating insights into last-mile applications including agents, webhooks, and apps
+
+## New Projects and Integrations
+
+### KAMIYO AI
+
+- Launched using ElizaOS plugin
+- Described as trust infrastructure for autonomous agents
+- Features escrow-protected payments and on-chain dispute resolution
+- Includes 5 actions, 3 providers, and 2 evaluators
+
+### BountyBoard
+
+- Shared as decentralized platform for Web3 community activities
+- Uses Eliza framework
+
+### Plugin Ecosystem Expansion
+
+- New plugin @kamiyo/eliza added to registry
+- SQL plugin received updates including Neon serverless support
+- Improved Row-Level Security (RLS) for enhanced security and scalability
+
+## Technical Support Activities
+
+- Users received assistance with migration issues through support channels
+- Questions addressed about deploying in ElizaCloud via containers
+- Confirmation provided that both Pglite and PostgreSQL options work for deployment
+- Discussion about X (Twitter) functionality and API requirements
+
+## Market and Infrastructure Discussion
+
+- Core developers discussed Fleeks 2026 outlook focusing on efficient inference
+- Developer shared experience with inference market based on models offered over the last year
 ```
 
 
