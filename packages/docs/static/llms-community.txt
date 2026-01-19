@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -137,79 +137,38 @@ packages/
       2026-01-15.md
       2026-01-16.md
       2026-01-17.md
+      2026-01-18.md
 ```
 
 # Files
 
-## File: packages/docs/news/2026-01-17.md
+## File: packages/docs/news/2026-01-18.md
 ```markdown
-# ElizaOS Daily Report - January 17, 2026
+## ElizaOS Project Status - January 18, 2026
 
-## Community Discussions
+## Community Activity
 
-### General Discussion Channel
+- Community members engaged in discussions about the project's direction and token performance
+- Users discussed alternative tokens including elizatown as a potential market opportunity
+- A tweet from shaw disclosed budget management decisions regarding staffing and API costs
+- Community member DorianD provided critical feedback on project resource allocation and token utility development over the past year
 
-- Community members discussed holder rewards and token economics, with debate about integrating rewards when new agents are created
-- Discussion covered prediction markets and their potential, with members sharing different perspectives based on past experience with forecast markets on ICOs in 2017
-- Questions were addressed about token migration processes
-- A user reported making significantly more progress using the AI documentation tool, achieving in six hours what previously took two months
+## Development Activity
 
-### Technical Development Channel
+### Game Development Interest
 
-- New developers joined to explore ElizaOS and discussed differences between building with plugin-agentkit versus CDP AgentKit with Eliza integration
-- Technical work completed on Polymarket integration, with clarification that Polymarket uses proxy wallets (1/1 Safe multisig contracts controlled by signer addresses)
-- Solutions were developed for Cloudflare 403 blocks when calling CLOB API from serverless functions, involving Web Unblocker and proxy settings
-- Certificate errors and runtime restrictions in Supabase Edge Functions were identified and addressed
-- Advanced technical work was shared involving training systems with one million known tokens to generate databases and identify alpha opportunities
-- Development work completed on Rust plugins to handle real-time DEX operations across multiple exchanges
-- NATS Jetstream was implemented over Redis stream for propagating data in Eliza due to speed requirements
+- Developer Figure expressed interest in contributing to game development for the project
+- Additional developers inquired about opportunities for web and AI development contributions
 
-### Partners Channel
+### Technical Issues Reported
 
-- Community members acknowledged work on reminding people about the ai16z to ElizaOS rebrand on the main X account
-- CoinGecko link was added to Linktree
-- Shaw successfully made Eliza run on ICP
-- Technical discussions held on Jeju network launch and its capabilities
-- Use cases were proposed for agents running independently for gaming and gambling applications, including oracle functionality for sports game results
+- A technical question was raised regarding elizaos-plugins/plugin-discord functionality when working with ElizaCloud for personal server chatbot creation
 
-## Development Progress
+### Documentation Improvements
 
-### Core Runtime Enhancements
-
-- Added unregisterAction method to improve flexibility in managing agent actions
-- Implemented authentication improvements ensuring .env files are loaded correctly in agent commands
-- Added directory path validation in CLI operations
-- Enhanced plugin stability by ensuring entity connections before saving facts in plugin-bootstrap
-- Corrected MESSAGE_SENT event emission after sending to the central server
-
-### Dependency Updates
-
-#### Core Dependencies
-- Updated zod to 4.3.5
-- Updated tailwind-merge to 3.4.0
-- Updated react-markdown to 10.1.0
-- Updated p-retry to 7.1.1
-
-#### Development Dependencies
-- Updated @types/node to 25.0.6
-- Updated lint-staged to 16.2.7
-- Updated @types/minimatch to 6.0.0
-- Updated prettier to 3.8.0
-
-### Pull Requests Submitted
-
-- Ten new pull requests submitted to the elizaos/eliza repository
-- Fixes implemented for CLI directory path validation
-- Fixes implemented for MESSAGE_SENT event emission
-- Fixes implemented for .env file loading for authentication
-- Fixes implemented for action callback handling in multi-step mode
-- Fixes implemented for entity connection issues in the reflection evaluator
-- Documentation added for environment variables
-
-### Issue Management
-
-- Two new issues opened regarding embedding/database configuration discrepancy and prompt character limits
-- One issue closed after clarification that 'Entity not found' behavior in the Reflection Evaluator is intended design
+- Core developer jin proposed enhancements to documentation for agentic use cases
+- Jin shared resources from kapa.ai covering technical documentation optimization for LLMs and writing best practices
+- A systematic approach was suggested using Claude to review documentation pages with the goal of improving accessibility for AI agents
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -2523,6 +2482,77 @@ Community members discussed X platform updates, with news that X will launch bui
 - Engaged freelancers to review examples
 - Advanced Rust and Python implementations
 - Discussed GRPC option for plugin-Solana improvements
+```
+
+## File: packages/docs/news/2026-01-17.md
+```markdown
+# ElizaOS Daily Report - January 17, 2026
+
+## Community Discussions
+
+### General Discussion Channel
+
+- Community members discussed holder rewards and token economics, with debate about integrating rewards when new agents are created
+- Discussion covered prediction markets and their potential, with members sharing different perspectives based on past experience with forecast markets on ICOs in 2017
+- Questions were addressed about token migration processes
+- A user reported making significantly more progress using the AI documentation tool, achieving in six hours what previously took two months
+
+### Technical Development Channel
+
+- New developers joined to explore ElizaOS and discussed differences between building with plugin-agentkit versus CDP AgentKit with Eliza integration
+- Technical work completed on Polymarket integration, with clarification that Polymarket uses proxy wallets (1/1 Safe multisig contracts controlled by signer addresses)
+- Solutions were developed for Cloudflare 403 blocks when calling CLOB API from serverless functions, involving Web Unblocker and proxy settings
+- Certificate errors and runtime restrictions in Supabase Edge Functions were identified and addressed
+- Advanced technical work was shared involving training systems with one million known tokens to generate databases and identify alpha opportunities
+- Development work completed on Rust plugins to handle real-time DEX operations across multiple exchanges
+- NATS Jetstream was implemented over Redis stream for propagating data in Eliza due to speed requirements
+
+### Partners Channel
+
+- Community members acknowledged work on reminding people about the ai16z to ElizaOS rebrand on the main X account
+- CoinGecko link was added to Linktree
+- Shaw successfully made Eliza run on ICP
+- Technical discussions held on Jeju network launch and its capabilities
+- Use cases were proposed for agents running independently for gaming and gambling applications, including oracle functionality for sports game results
+
+## Development Progress
+
+### Core Runtime Enhancements
+
+- Added unregisterAction method to improve flexibility in managing agent actions
+- Implemented authentication improvements ensuring .env files are loaded correctly in agent commands
+- Added directory path validation in CLI operations
+- Enhanced plugin stability by ensuring entity connections before saving facts in plugin-bootstrap
+- Corrected MESSAGE_SENT event emission after sending to the central server
+
+### Dependency Updates
+
+#### Core Dependencies
+- Updated zod to 4.3.5
+- Updated tailwind-merge to 3.4.0
+- Updated react-markdown to 10.1.0
+- Updated p-retry to 7.1.1
+
+#### Development Dependencies
+- Updated @types/node to 25.0.6
+- Updated lint-staged to 16.2.7
+- Updated @types/minimatch to 6.0.0
+- Updated prettier to 3.8.0
+
+### Pull Requests Submitted
+
+- Ten new pull requests submitted to the elizaos/eliza repository
+- Fixes implemented for CLI directory path validation
+- Fixes implemented for MESSAGE_SENT event emission
+- Fixes implemented for .env file loading for authentication
+- Fixes implemented for action callback handling in multi-step mode
+- Fixes implemented for entity connection issues in the reflection evaluator
+- Documentation added for environment variables
+
+### Issue Management
+
+- Two new issues opened regarding embedding/database configuration discrepancy and prompt character limits
+- One issue closed after clarification that 'Entity not found' behavior in the Reflection Evaluator is intended design
 ```
 
 
