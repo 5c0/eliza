@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -141,69 +141,120 @@ packages/
       2026-01-19.md
       2026-01-20.md
       2026-01-21.md
+      2026-01-22.md
 ```
 
 # Files
 
-## File: packages/docs/news/2026-01-21.md
+## File: packages/docs/news/2026-01-22.md
 ```markdown
-## ElizaOS Development Updates - January 21, 2026
+# ElizaOS Daily Report - January 22, 2026
 
-### Product Announcements
+## Community Activity
 
-Shaw announced several upcoming launches for ElizaOS in the coming weeks:
+### New Contributors
 
-- **Eliza Cloud Apps and Monetization** - Platform for AI app development
-- **Babylon** - AI trading and prediction game with self-improving agents (will have its own token)
-- **Hyperscape** - Browser-based MMO created by AI with AI agents playing
-- **OTC Trading Desk** - For token listing
+- A new contributor with a coding background joined the community and is working on adding an RLM plugin for Eliza v2
+- The community welcomed the new member
 
-ElizaOS holders will receive free access and exposure to airdrops from all incubated projects.
+### Token Migration Support
 
-### Technical Development
+- Support staff assisted multiple users through the token migration process
+- Users were directed to create tickets and use the migration support channel
+- At least one user successfully completed migration after receiving assistance
 
-#### Support Agent Implementation
+### Community Engagement
 
-A developer successfully built a support agent named Hank that responded to its first support request for a scientific research tool. Plans are underway to build additional agents for marketing and sales, including automated LinkedIn and email campaigns.
+- ElizaBAO announced a video creator competition for short-form videos explaining AI agents, prediction markets, and the ElizaBAO ecosystem
+- Community members shared positive sentiment about ElizaOS technology
+- Shaw posted a tweet reaffirming commitment to the project, emphasizing the team's focus on shipping good tech and products
 
-#### Plugin Compatibility
+### Notable Developments
 
-Version 1.7.2 of elizaos and version 1.3.7 of plugin-discord were confirmed as working together.
+- News emerged about a collaboration between Grimes and Shaw, the founder of ElizaOS
+- This development generated excitement in the community
 
-#### Integration Discussions
+## Technical Achievements
 
-The community discussed integrating the Polymarket plugin into ElizaCloud agents and using Remotion for video generation with AI agents.
+### Database Migration Resolution
 
-### Frontend Enhancements
+- A user successfully resolved PostgreSQL migration issues by switching to Neon database
+- The support team provided guidance on using pgvector and proper database configuration
+- Issues with creating schemas were resolved through database platform migration
 
-The team implemented markdown rendering for the profile summary card using react-markdown and remark-gfm in the elizaos.github.io repository, replacing plain text display with richer content formatting capabilities.
+### Discord Integration
 
-### Plugin Development and Quality Improvements
+- The development team acknowledged and began investigating errors with the recent messages provider in version 1.7.2
+- Issues were related to invalid private field access for conversation length
 
-#### Telegram Plugin Updates
+### Distributed Computing Discussions
 
-- Implemented structured logging with standardized log formats
-- Added ESLint with structured logging rules
-- Added new lint:check script for continuous integration
-- Resolved TypeScript errors for compatibility with @elizaos/core version 1.7.x
-- Removed deprecated serverId from ensureConnection calls
-- Cast serverId to UUID type
-- Fixed custom event payload typing
-- Refactored messaging API to implement unified approach with elizaOS support
+- Developers discussed using AirLLM to run 70B models on 4GB GPUs
+- Conversations covered implementing zero-knowledge proofs to prevent cheating in distributed networks
+- Exploration of utilizing consumer devices like iPhones for processing during idle time
+- Discussion of creating ad hoc clusters of devices with redundant compute and validation systems
 
-#### Discord Plugin Release
+### AI Agent Use Cases
 
-Prepared new release for Discord plugin, bumping version from 1.3.6 to 1.3.7, including upgraded @elizaos/core dependency and refreshed bun.lock file.
+- A creative use case was shared involving a bot that analyzed broken McDonald's ice cream machine data
+- The bot reportedly made $200,000 in Polymarket profits by correlating machine breakdowns with economic trends
+- The bot predicted political events based on machine repair patterns near the White House
 
-### Issue Management
+### VR Data Collection for Robotics
 
-- Opened new issue to remove timer in app builder and implement manual refresh request window
-- Closed issue for adding agent discovery module to landing page and dashboard
-- Closed issue establishing public agent link format
+- A Silicon Valley robot meetup highlighted a solution for collecting human manipulation data
+- A popular VR game with 100,000 players was used to collect training data for robotics
+- Contests like making sandwiches as fast as possible while wearing headsets were added
 
-### Core Development
+## Core Development
 
-Core developers identified potential data storage issues and shared async.app link among the development team.
+### Token Launch Guidelines Established
+
+- Shaw established strict rules for developers launching tokens:
+  - Never sell tokens
+  - Burn tokens before selling if necessary
+  - Use 30 percent of fees for buybacks during dips
+  - Maintain clear value propositions
+- Shaw reported making $80,000 in fees during the week from a token someone else launched
+
+### Token Supply Management
+
+- A developer was instructed to burn 70 percent of their token supply after launching with problematic tokenomics
+- The team provided guidance on using Sol Incinerator to burn tokens
+- Instructions were given for exporting private keys from Bags wallet to Phantom for the burning process
+
+## Project Infrastructure
+
+### API Reliability Improvements
+
+- Fixed API index generation that was causing 404 errors in production
+- Resolved missing SITE_URL in the run-pipelines workflow by adding dynamic SITE_URL detection
+- Modified overall summary API endpoints to always generate summaries, providing 'No activity recorded' message for inactive days
+- Fixed contributor profile exports affecting 1,433 profiles
+
+### Pipeline Fixes
+
+- Corrected pipeline ordering issue that caused contributor summaries to appear as null in exported stats files
+- Contributor summaries are now re-exported after generation for accurate data in stats_*.json files
+
+### Python Enhancements
+
+- Added Python quickstart documentation
+- Fixed chat example to include the inmemorydb plugin for database support and dotenv loading
+- Corrected inmemorydb plugin to use proper Plugin implementation
+
+### V2.0.0 Compatibility Progress
+
+- Opened pull requests to fix the avatar example and ElevenLabs plugin
+- Submitted pull requests to address A2A example, protobuf compatibility, and runtime errors
+- Submitted new pull request to add a Cerebras Plugin to the registry
+
+### Issue Resolution
+
+- Closed multiple issues across repositories including agent message processing and state management issues
+- Resolved migration eligibility discrepancies
+- Fixed API export and contributor profile resolution issues
+- Contributor madjin provided detailed comments and fixes for critical API index and overall summary generation issues
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -2718,6 +2769,67 @@ Community members discussed X platform updates, with news that X will launch bui
 - Opened pull request to introduce dynamic execution engine for version 2.0.0
 - Development focused on testing context handling
 - Feature currently in progress as part of ongoing development work
+```
+
+## File: packages/docs/news/2026-01-21.md
+```markdown
+## ElizaOS Development Updates - January 21, 2026
+
+### Product Announcements
+
+Shaw announced several upcoming launches for ElizaOS in the coming weeks:
+
+- **Eliza Cloud Apps and Monetization** - Platform for AI app development
+- **Babylon** - AI trading and prediction game with self-improving agents (will have its own token)
+- **Hyperscape** - Browser-based MMO created by AI with AI agents playing
+- **OTC Trading Desk** - For token listing
+
+ElizaOS holders will receive free access and exposure to airdrops from all incubated projects.
+
+### Technical Development
+
+#### Support Agent Implementation
+
+A developer successfully built a support agent named Hank that responded to its first support request for a scientific research tool. Plans are underway to build additional agents for marketing and sales, including automated LinkedIn and email campaigns.
+
+#### Plugin Compatibility
+
+Version 1.7.2 of elizaos and version 1.3.7 of plugin-discord were confirmed as working together.
+
+#### Integration Discussions
+
+The community discussed integrating the Polymarket plugin into ElizaCloud agents and using Remotion for video generation with AI agents.
+
+### Frontend Enhancements
+
+The team implemented markdown rendering for the profile summary card using react-markdown and remark-gfm in the elizaos.github.io repository, replacing plain text display with richer content formatting capabilities.
+
+### Plugin Development and Quality Improvements
+
+#### Telegram Plugin Updates
+
+- Implemented structured logging with standardized log formats
+- Added ESLint with structured logging rules
+- Added new lint:check script for continuous integration
+- Resolved TypeScript errors for compatibility with @elizaos/core version 1.7.x
+- Removed deprecated serverId from ensureConnection calls
+- Cast serverId to UUID type
+- Fixed custom event payload typing
+- Refactored messaging API to implement unified approach with elizaOS support
+
+#### Discord Plugin Release
+
+Prepared new release for Discord plugin, bumping version from 1.3.6 to 1.3.7, including upgraded @elizaos/core dependency and refreshed bun.lock file.
+
+### Issue Management
+
+- Opened new issue to remove timer in app builder and implement manual refresh request window
+- Closed issue for adding agent discovery module to landing page and dashboard
+- Closed issue establishing public agent link format
+
+### Core Development
+
+Core developers identified potential data storage issues and shared async.app link among the development team.
 ```
 
 
