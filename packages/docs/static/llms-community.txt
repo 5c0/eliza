@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/news/2026-01-23.md, packages/docs/news/2026-01-24.md, packages/docs/news/2026-01-25.md, packages/docs/news/2026-01-26.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/news/2026-01-23.md, packages/docs/news/2026-01-24.md, packages/docs/news/2026-01-25.md, packages/docs/news/2026-01-26.md, packages/docs/news/2026-01-27.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -146,77 +146,41 @@ packages/
       2026-01-24.md
       2026-01-25.md
       2026-01-26.md
+      2026-01-27.md
 ```
 
 # Files
 
-## File: packages/docs/news/2026-01-26.md
+## File: packages/docs/news/2026-01-27.md
 ```markdown
-# ElizaOS Daily Report - January 26, 2026
+## ElizaOS Development Updates and Community Discussion - January 27, 2026
 
-## Development Updates
+### Community Support and Product Strategy
 
-### Core Infrastructure
+- Community members expressed support for the development team, emphasizing their investment as a bet on Shaw and the team's ability to deliver
+- The team was highlighted as leading AI agent developers with multiple products in development including Babylon, Hyperscape, Cloud, OTC desk, and Eliza Anime
+- Strategy confirmed to reward long-term holders through airdrops when products go viral
 
-- Fixed critical bug in CLI import statement, updating to use package alias for improved module resolution
-- Resolved blocking issue with AI Gateway credits that had prevented AI inference and development work
-- Implemented multiple core plugin integrations:
-  - GitHub Plugin for code and repository management
-  - Code Execution Plugin enabling Eliza to write and execute code
+### Knowledge Plugin Technical Resolution
 
-### Repository Maintenance
+- Developers identified and resolved extremely high costs with OpenAI Knowledge plugin (0.03 to 0.04 dollars per query)
+- Issue traced to contextual embeddings being enabled
+- Core developer provided minimal configuration solution using OpenRouter with basic text embedding models
+- Team shared cost data showing 3.1MB PDF book with 517 chunks as reference point for expected embedding costs
 
-- Completed extensive dependency updates across elizaos.github.io repository
-- Updated multiple packages including commander, next, eslint-config-next, glob, ora, and date-fns
-- Applied security patches and version updates to maintain current library versions
+### Strategic Pivot to AI Workflow Builder
 
-### Research and Testing
+- Core developers pivoted strategy toward building Eliza as a comprehensive AI assistant application, inspired by Clawdbot's success
+- Shaw published Eliza 2.0.0 to npm under the next tag
+- Team focused on n8n workflow integration as primary approach
+- Set up n8n cloud accounts and began integrating n8n-intelligence and n8n-workflow-builder open source projects
+- Vision established to create AI workflow builder allowing users to connect services like Gmail, Calendar, Notion, and Linear through natural language commands with conditional logic
+- Team identified that 95 percent of users want AI workflow building rather than auto-coding
 
-- Completed competitive analysis research on Claudebot and Poke
-- Recruited consumer testers for quality assurance testing
-- Closed plugin submission for Coin Railz x402 Micropayment Services
-- Closed exploration task for building hosted Claudebot-like experience
+### Babylon Airdrop Plans
 
-## Project Roadmap
-
-### New Features Planned
-
-- Poke-style onboarding flow implementation
-- Conversation-based configuration system
-- Landing page creation
-- Dynamic plugin loading capability
-- User session isolation for multi-tenant architecture
-- Secrets management system
-- Memory persistence functionality
-- Cross-agent messaging capabilities
-- Native iOS app development
-
-### Platform Integrations
-
-- Discord integration
-- Telegram integration
-- SMS/iMessage integration
-- Twilio integration
-- WhatsApp integration
-
-## Team Updates
-
-- Core developer sam returned to work after surgery recovery, reporting 80% recovery status
-- Sam resumed work on cloud infrastructure and user features
-- Shaw returned to the Discord server
-
-## Community Activity
-
-### Integration Discussions
-
-- Community members discussed integrating Eliza AI assistant into Seeker phone app store
-- Identified Eliza as potential valuable addition to Seeker phone's DApp store platform
-
-### Technical Discussions
-
-- Developer reported findings on plugin action handler callbacks
-- User 0x_404 shared research on building AI companions using tech stack combining Eliza, Clawde, Letta, and local LLMs or Opus/GPT
-- Community member recovered 481K lines of unreleased code from old ElizaOS branch repositories
+- Team confirmed intention to reward long-term ElizaOS holders through Babylon airdrop
+- Community discussed ElizaOS as a community project and its memetic value
 ```
 
 ## File: packages/docs/news/2025-10-12.md
@@ -3032,6 +2996,75 @@ Core developers identified potential data storage issues and shared async.app li
 ### Community Activity
 - Work noted from 8004 community members
 - Discussion of STUDIO token development and Shaw's engagement with the developer
+```
+
+## File: packages/docs/news/2026-01-26.md
+```markdown
+# ElizaOS Daily Report - January 26, 2026
+
+## Development Updates
+
+### Core Infrastructure
+
+- Fixed critical bug in CLI import statement, updating to use package alias for improved module resolution
+- Resolved blocking issue with AI Gateway credits that had prevented AI inference and development work
+- Implemented multiple core plugin integrations:
+  - GitHub Plugin for code and repository management
+  - Code Execution Plugin enabling Eliza to write and execute code
+
+### Repository Maintenance
+
+- Completed extensive dependency updates across elizaos.github.io repository
+- Updated multiple packages including commander, next, eslint-config-next, glob, ora, and date-fns
+- Applied security patches and version updates to maintain current library versions
+
+### Research and Testing
+
+- Completed competitive analysis research on Claudebot and Poke
+- Recruited consumer testers for quality assurance testing
+- Closed plugin submission for Coin Railz x402 Micropayment Services
+- Closed exploration task for building hosted Claudebot-like experience
+
+## Project Roadmap
+
+### New Features Planned
+
+- Poke-style onboarding flow implementation
+- Conversation-based configuration system
+- Landing page creation
+- Dynamic plugin loading capability
+- User session isolation for multi-tenant architecture
+- Secrets management system
+- Memory persistence functionality
+- Cross-agent messaging capabilities
+- Native iOS app development
+
+### Platform Integrations
+
+- Discord integration
+- Telegram integration
+- SMS/iMessage integration
+- Twilio integration
+- WhatsApp integration
+
+## Team Updates
+
+- Core developer sam returned to work after surgery recovery, reporting 80% recovery status
+- Sam resumed work on cloud infrastructure and user features
+- Shaw returned to the Discord server
+
+## Community Activity
+
+### Integration Discussions
+
+- Community members discussed integrating Eliza AI assistant into Seeker phone app store
+- Identified Eliza as potential valuable addition to Seeker phone's DApp store platform
+
+### Technical Discussions
+
+- Developer reported findings on plugin action handler callbacks
+- User 0x_404 shared research on building AI companions using tech stack combining Eliza, Clawde, Letta, and local LLMs or Opus/GPT
+- Community member recovered 481K lines of unreleased code from old ElizaOS branch repositories
 ```
 
 
