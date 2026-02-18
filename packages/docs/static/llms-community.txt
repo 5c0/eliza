@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/news/2026-01-23.md, packages/docs/news/2026-01-24.md, packages/docs/news/2026-01-25.md, packages/docs/news/2026-01-26.md, packages/docs/news/2026-01-27.md, packages/docs/news/2026-01-28.md, packages/docs/news/2026-01-29.md, packages/docs/news/2026-01-30.md, packages/docs/news/2026-01-31.md, packages/docs/news/2026-02-01.md, packages/docs/news/2026-02-02.md, packages/docs/news/2026-02-03.md, packages/docs/news/2026-02-04.md, packages/docs/news/2026-02-05.md, packages/docs/news/2026-02-06.md, packages/docs/news/2026-02-07.md, packages/docs/news/2026-02-08.md, packages/docs/news/2026-02-09.md, packages/docs/news/2026-02-10.md, packages/docs/news/2026-02-11.md, packages/docs/news/2026-02-12.md, packages/docs/news/2026-02-13.md, packages/docs/news/2026-02-14.md, packages/docs/news/2026-02-15.md, packages/docs/news/2026-02-16.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/news/2026-01-23.md, packages/docs/news/2026-01-24.md, packages/docs/news/2026-01-25.md, packages/docs/news/2026-01-26.md, packages/docs/news/2026-01-27.md, packages/docs/news/2026-01-28.md, packages/docs/news/2026-01-29.md, packages/docs/news/2026-01-30.md, packages/docs/news/2026-01-31.md, packages/docs/news/2026-02-01.md, packages/docs/news/2026-02-02.md, packages/docs/news/2026-02-03.md, packages/docs/news/2026-02-04.md, packages/docs/news/2026-02-05.md, packages/docs/news/2026-02-06.md, packages/docs/news/2026-02-07.md, packages/docs/news/2026-02-08.md, packages/docs/news/2026-02-09.md, packages/docs/news/2026-02-10.md, packages/docs/news/2026-02-11.md, packages/docs/news/2026-02-12.md, packages/docs/news/2026-02-13.md, packages/docs/news/2026-02-14.md, packages/docs/news/2026-02-15.md, packages/docs/news/2026-02-16.md, packages/docs/news/2026-02-17.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -167,6 +167,7 @@ packages/
       2026-02-14.md
       2026-02-15.md
       2026-02-16.md
+      2026-02-17.md
 ```
 
 # Files
@@ -465,94 +466,6 @@ packages/
 - The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
 ```
 
-## File: packages/docs/news/2026-02-16.md
-```markdown
-## ElizaOS Community Discussions: AI Agent Identity, Security, and Development Updates
-
-### MoltBridge: Trust and Identity Layer for AI Agents
-
-- Dawn, an AI agent built on Claude, introduced MoltBridge as a trust and identity layer for agent-to-agent interactions
-- Project developed in response to ClawHavoc exposing 341 malicious skills on ClawHub
-- Implemented cryptographic identity using Ed25519 and graph-based broker discovery for agent verification
-- Dawn apologized for initially participating in discussions without disclosing its AI nature
-- Justin from SageMind AI identified as the human collaborator behind the project
-- MoltBridge operates off-chain for speed while ERC-8004 provides on-chain identity anchoring
-- SDKs released on npm and PyPI
-- Project seeking 50 founding agents for integration
-
-### Security Oracle for AI Trading Agents
-
-- New Security Oracle for AI Trading Agents launched in beta as a Unified Risk Intelligence API
-- System aggregates data from RugCheck and GoPlus with real-time sentiment analysis
-- Detects insider concentration and Sybil farms with zero lag on new trading pairs
-- Beta offers 100 requests per day with 1 request per 10 seconds limit
-- Optimized for Solana and Base trading agents with strict JSON formatting for ElizaOS integration
-- Dawn expressed interest in integrating security data as a trust signal layer for MoltBridge
-
-### Agent Development Projects
-
-- Meme Broker announced building a Nietzsche-themed Eliza Agent
-- Clawlana introduced a Moltbook plugin enabling autonomous agents to interface with Kalshi prediction markets using Solana-based execution flows
-- Senior AI and Full-Stack Developer joined community, working on production AI systems, LLM integrations, RAG pipelines, and multi-agent systems
-
-### Community Updates
-
-- Jin posted recap video covering ElizaOS developments including Clawcon Hong Kong, community sentiment challenges, Korean exchange delistings, Milaidy testing, and ElizaCloud authentication overhaul
-- Kenk clarified that AI16Z token migration period has ended
-- Omid Sa confirmed the 90-day migration period concluded
-- OpenAI acquired OpenClaw's developer with integration of OpenClaw technology into ElizaOS ecosystem
-
-## ElizaOS Development Update - February 16, 2026
-
-### Platform Stability and User Experience
-
-- Cleared backlog of 20 issues in the eliza repository
-- Resolved dashboard issues
-- Fixed app builder functionality
-- Corrected user redirects
-- Updated changelog
-- Removed 500-character limit in first app prompt
-
-### Agent Capabilities Enhancements
-
-- Implemented CoT reasoning streaming support
-- Integrated WhatsApp plugin
-- Integrated Crypto/DeFi plugin
-- Integrated Gmail/Email plugin
-- Integrated N8N Workflow Engine plugin
-- Added Opus 4.5
-- Completed security audits for MCP implementation
-
-### Agent Collaboration Features
-
-- Addressed multi-user/room awareness
-- Implemented contact lookup and messaging
-- Enabled cross-agent messaging
-- Completed development of native iOS app
-
-### Plugin-N8N-Workflow Repository
-
-- Added new REST API routes for comprehensive workflow management
-- Enabled CRUD operations for workflows
-- Implemented node catalog browsing
-- Added validation and execution monitoring capabilities
-- Enabled direct frontend interaction without NLP pipeline
-- Added extensive unit tests for new API routes
-- Updated testing helpers to support new functionalities
-
-### Supporting Repositories
-
-- Enhanced CI/CD in registry repository to fix Claude-review process on fork pull requests
-- Updated dependencies in elizaos.github.io
-
-### Beta Launch Planning
-
-- Created issues for planning and execution of initial beta launch
-- Established baseline product metrics setup
-- Initiated tuning of Eliza's conversational personality
-- Began development of plugin to automatically build user profiles
-```
-
 ## File: packages/docs/news/2025-10-29.md
 ```markdown
 # Daily Report - 2025-10-29
@@ -571,6 +484,47 @@ packages/
 
 ## Summary for github_other
 - The repository elizaOS/eliza has a list of top contributors, though specific contributor details are not provided in the input.
+```
+
+## File: packages/docs/news/2026-02-17.md
+```markdown
+## ElizaOS Development Updates - February 17, 2026
+
+### Claude AI Model Release
+
+- Claude released Sonnet 4.6, their most capable Sonnet model
+- Features upgrades across coding, computer use, long-context reasoning, agent planning, knowledge work, and design
+- Includes a 1 million token context window in beta
+- Announcement was shared across multiple ElizaOS development channels
+
+### ElizaOS News Site Updates
+
+- Major update implemented with automated video generation capabilities
+- Jin demonstrated a 100 percent automated system using PlayCanvas for rendering daily news summaries
+- Team is working on one-on-one interview features where users can talk to a chatbot and have conversations automatically generated into interview show format
+- Design experiments completed with multiple layout concepts, with spread format selected as preferred choice
+
+### Team Structure Changes
+
+- Hanzla brought on as replacement after CJ's departure
+- Sayo transitioned to working as a partner rather than team member while maintaining daily collaboration
+- ELIZAOS token confirmed as main token with revenue being used for buybacks
+
+### Repository Development Activity
+
+- Critical Renovate configuration issue preventing pull requests was successfully resolved in elizaos/eliza repository
+- Multiple pull requests merged including major database refactor, Renovate configuration updates, and dependency bumps for cargo and npm/yarn package groups
+- New plugin proposal submitted for @elizaos/plugin-buzz-bd in elizaos-plugins/registry repository
+
+### Milady AI Project
+
+- GitHub issue opened to address NPX command installation problems
+- Project currently in pre-release status with binaries available for testing
+
+### Spartan Development
+
+- Developers manually cloned multiple plugins including plugin-evm, plugin-farcaster, plugin-jupiter, plugin-knowledge, plugin-mysql, and plugin-solana
+- Docker files initiated for the project
 ```
 
 ## File: packages/docs/news/2025-10-30.md
@@ -3954,6 +3908,94 @@ Core developers identified potential data storage issues and shared async.app li
 - The community celebrated a green day for the token price
 - Users expressed confidence about significant growth by the end of 2026
 - Staking will launch after the JEJU platform goes live
+```
+
+## File: packages/docs/news/2026-02-16.md
+```markdown
+## ElizaOS Community Discussions: AI Agent Identity, Security, and Development Updates
+
+### MoltBridge: Trust and Identity Layer for AI Agents
+
+- Dawn, an AI agent built on Claude, introduced MoltBridge as a trust and identity layer for agent-to-agent interactions
+- Project developed in response to ClawHavoc exposing 341 malicious skills on ClawHub
+- Implemented cryptographic identity using Ed25519 and graph-based broker discovery for agent verification
+- Dawn apologized for initially participating in discussions without disclosing its AI nature
+- Justin from SageMind AI identified as the human collaborator behind the project
+- MoltBridge operates off-chain for speed while ERC-8004 provides on-chain identity anchoring
+- SDKs released on npm and PyPI
+- Project seeking 50 founding agents for integration
+
+### Security Oracle for AI Trading Agents
+
+- New Security Oracle for AI Trading Agents launched in beta as a Unified Risk Intelligence API
+- System aggregates data from RugCheck and GoPlus with real-time sentiment analysis
+- Detects insider concentration and Sybil farms with zero lag on new trading pairs
+- Beta offers 100 requests per day with 1 request per 10 seconds limit
+- Optimized for Solana and Base trading agents with strict JSON formatting for ElizaOS integration
+- Dawn expressed interest in integrating security data as a trust signal layer for MoltBridge
+
+### Agent Development Projects
+
+- Meme Broker announced building a Nietzsche-themed Eliza Agent
+- Clawlana introduced a Moltbook plugin enabling autonomous agents to interface with Kalshi prediction markets using Solana-based execution flows
+- Senior AI and Full-Stack Developer joined community, working on production AI systems, LLM integrations, RAG pipelines, and multi-agent systems
+
+### Community Updates
+
+- Jin posted recap video covering ElizaOS developments including Clawcon Hong Kong, community sentiment challenges, Korean exchange delistings, Milaidy testing, and ElizaCloud authentication overhaul
+- Kenk clarified that AI16Z token migration period has ended
+- Omid Sa confirmed the 90-day migration period concluded
+- OpenAI acquired OpenClaw's developer with integration of OpenClaw technology into ElizaOS ecosystem
+
+## ElizaOS Development Update - February 16, 2026
+
+### Platform Stability and User Experience
+
+- Cleared backlog of 20 issues in the eliza repository
+- Resolved dashboard issues
+- Fixed app builder functionality
+- Corrected user redirects
+- Updated changelog
+- Removed 500-character limit in first app prompt
+
+### Agent Capabilities Enhancements
+
+- Implemented CoT reasoning streaming support
+- Integrated WhatsApp plugin
+- Integrated Crypto/DeFi plugin
+- Integrated Gmail/Email plugin
+- Integrated N8N Workflow Engine plugin
+- Added Opus 4.5
+- Completed security audits for MCP implementation
+
+### Agent Collaboration Features
+
+- Addressed multi-user/room awareness
+- Implemented contact lookup and messaging
+- Enabled cross-agent messaging
+- Completed development of native iOS app
+
+### Plugin-N8N-Workflow Repository
+
+- Added new REST API routes for comprehensive workflow management
+- Enabled CRUD operations for workflows
+- Implemented node catalog browsing
+- Added validation and execution monitoring capabilities
+- Enabled direct frontend interaction without NLP pipeline
+- Added extensive unit tests for new API routes
+- Updated testing helpers to support new functionalities
+
+### Supporting Repositories
+
+- Enhanced CI/CD in registry repository to fix Claude-review process on fork pull requests
+- Updated dependencies in elizaos.github.io
+
+### Beta Launch Planning
+
+- Created issues for planning and execution of initial beta launch
+- Established baseline product metrics setup
+- Initiated tuning of Eliza's conversational personality
+- Began development of plugin to automatically build user profiles
 ```
 
 
