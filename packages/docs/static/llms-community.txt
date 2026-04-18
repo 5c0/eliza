@@ -31,7 +31,7 @@ The content is organized as follows:
 ## Notes
 - Some files may have been excluded based on .gitignore rules and Repomix's configuration
 - Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
-- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/news/2026-01-23.md, packages/docs/news/2026-01-24.md, packages/docs/news/2026-01-25.md, packages/docs/news/2026-01-26.md, packages/docs/news/2026-01-27.md, packages/docs/news/2026-01-28.md, packages/docs/news/2026-01-29.md, packages/docs/news/2026-01-30.md, packages/docs/news/2026-01-31.md, packages/docs/news/2026-02-01.md, packages/docs/news/2026-02-02.md, packages/docs/news/2026-02-03.md, packages/docs/news/2026-02-04.md, packages/docs/news/2026-02-05.md, packages/docs/news/2026-02-06.md, packages/docs/news/2026-02-07.md, packages/docs/news/2026-02-08.md, packages/docs/news/2026-02-09.md, packages/docs/news/2026-02-10.md, packages/docs/news/2026-02-11.md, packages/docs/news/2026-02-12.md, packages/docs/news/2026-02-13.md, packages/docs/news/2026-02-14.md, packages/docs/news/2026-02-15.md, packages/docs/news/2026-02-16.md, packages/docs/news/2026-02-17.md, packages/docs/news/2026-02-18.md, packages/docs/news/2026-02-19.md, packages/docs/news/2026-02-20.md, packages/docs/news/2026-02-21.md, packages/docs/news/2026-02-22.md, packages/docs/news/2026-02-23.md, packages/docs/news/2026-02-24.md, packages/docs/news/2026-02-25.md, packages/docs/news/2026-02-26.md, packages/docs/news/2026-02-27.md, packages/docs/news/2026-02-28.md, packages/docs/news/2026-03-01.md, packages/docs/news/2026-03-02.md, packages/docs/news/2026-03-03.md, packages/docs/news/2026-03-04.md, packages/docs/news/2026-03-05.md, packages/docs/news/2026-03-06.md, packages/docs/news/2026-03-07.md, packages/docs/news/2026-03-08.md, packages/docs/news/2026-03-09.md, packages/docs/news/2026-03-10.md, packages/docs/news/2026-03-11.md, packages/docs/news/2026-03-12.md, packages/docs/news/2026-03-13.md, packages/docs/news/2026-03-14.md, packages/docs/news/2026-03-15.md, packages/docs/news/2026-03-16.md, packages/docs/news/2026-03-17.md, packages/docs/news/2026-03-18.md, packages/docs/news/2026-03-19.md, packages/docs/news/2026-03-20.md, packages/docs/news/2026-03-21.md, packages/docs/news/2026-03-22.md, packages/docs/news/2026-03-23.md, packages/docs/news/2026-03-24.md, packages/docs/news/2026-03-25.md, packages/docs/news/2026-03-26.md, packages/docs/news/2026-03-27.md, packages/docs/news/2026-03-28.md, packages/docs/news/2026-03-29.md, packages/docs/news/2026-03-30.md, packages/docs/news/2026-03-31.md, packages/docs/news/2026-04-01.md, packages/docs/news/2026-04-02.md, packages/docs/news/2026-04-03.md, packages/docs/news/2026-04-04.md, packages/docs/news/2026-04-05.md, packages/docs/news/2026-04-06.md, packages/docs/news/2026-04-07.md, packages/docs/news/2026-04-08.md, packages/docs/news/2026-04-09.md, packages/docs/news/2026-04-10.md, packages/docs/news/2026-04-11.md, packages/docs/news/2026-04-12.md, packages/docs/news/2026-04-13.md, packages/docs/news/2026-04-14.md, packages/docs/news/2026-04-15.md, packages/docs/news/2026-04-16.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
+- Only files matching these patterns are included: packages/docs/blog/mission.mdx, packages/docs/blog/reintroduction.mdx, packages/docs/blog/taming_info.mdx, packages/docs/blog/v1-v2.mdx, packages/docs/blog/wdygdtw_recap.mdx, packages/docs/docs/core/actions.md, packages/docs/docs/core/agents.md, packages/docs/docs/core/database.md, packages/docs/docs/core/entities.md, packages/docs/docs/core/evaluators.md, packages/docs/docs/core/knowledge.md, packages/docs/docs/core/overview.md, packages/docs/docs/core/plugins.md, packages/docs/docs/core/project.md, packages/docs/docs/core/providers.md, packages/docs/docs/core/rooms.md, packages/docs/docs/core/services.md, packages/docs/docs/core/tasks.md, packages/docs/docs/core/worlds.md, packages/docs/docs/intro.md, packages/docs/docs/quickstart.md, packages/docs/news/2025-10-12.md, packages/docs/news/2025-10-13.md, packages/docs/news/2025-10-14.md, packages/docs/news/2025-10-15.md, packages/docs/news/2025-10-16.md, packages/docs/news/2025-10-17.md, packages/docs/news/2025-10-18.md, packages/docs/news/2025-10-19.md, packages/docs/news/2025-10-20.md, packages/docs/news/2025-10-21.md, packages/docs/news/2025-10-22.md, packages/docs/news/2025-10-23.md, packages/docs/news/2025-10-24.md, packages/docs/news/2025-10-25.md, packages/docs/news/2025-10-26.md, packages/docs/news/2025-10-27.md, packages/docs/news/2025-10-28.md, packages/docs/news/2025-10-29.md, packages/docs/news/2025-10-30.md, packages/docs/news/2025-10-31.md, packages/docs/news/2025-11-01.md, packages/docs/news/2025-11-02.md, packages/docs/news/2025-11-03.md, packages/docs/news/2025-11-04.md, packages/docs/news/2025-11-05.md, packages/docs/news/2025-11-06.md, packages/docs/news/2025-11-07.md, packages/docs/news/2025-11-08.md, packages/docs/news/2025-11-09.md, packages/docs/news/2025-11-10.md, packages/docs/news/2025-11-11.md, packages/docs/news/2025-11-12.md, packages/docs/news/2025-11-13.md, packages/docs/news/2025-11-14.md, packages/docs/news/2025-11-15.md, packages/docs/news/2025-11-16.md, packages/docs/news/2025-11-17.md, packages/docs/news/2025-11-18.md, packages/docs/news/2025-11-19.md, packages/docs/news/2025-11-20.md, packages/docs/news/2025-11-21.md, packages/docs/news/2025-11-22.md, packages/docs/news/2025-11-23.md, packages/docs/news/2025-11-24.md, packages/docs/news/2025-11-25.md, packages/docs/news/2025-11-26.md, packages/docs/news/2025-11-27.md, packages/docs/news/2025-11-28.md, packages/docs/news/2025-11-29.md, packages/docs/news/2025-11-30.md, packages/docs/news/2025-12-01.md, packages/docs/news/2025-12-02.md, packages/docs/news/2025-12-03.md, packages/docs/news/2025-12-04.md, packages/docs/news/2025-12-05.md, packages/docs/news/2025-12-06.md, packages/docs/news/2025-12-16.md, packages/docs/news/2025-12-17.md, packages/docs/news/2025-12-18.md, packages/docs/news/2025-12-19.md, packages/docs/news/2025-12-20.md, packages/docs/news/2025-12-21.md, packages/docs/news/2025-12-22.md, packages/docs/news/2025-12-23.md, packages/docs/news/2025-12-24.md, packages/docs/news/2025-12-25.md, packages/docs/news/2025-12-26.md, packages/docs/news/2025-12-27.md, packages/docs/news/2025-12-28.md, packages/docs/news/2025-12-29.md, packages/docs/news/2025-12-30.md, packages/docs/news/2025-12-31.md, packages/docs/news/2026-01-01.md, packages/docs/news/2026-01-02.md, packages/docs/news/2026-01-03.md, packages/docs/news/2026-01-04.md, packages/docs/news/2026-01-05.md, packages/docs/news/2026-01-06.md, packages/docs/news/2026-01-07.md, packages/docs/news/2026-01-08.md, packages/docs/news/2026-01-09.md, packages/docs/news/2026-01-10.md, packages/docs/news/2026-01-11.md, packages/docs/news/2026-01-12.md, packages/docs/news/2026-01-13.md, packages/docs/news/2026-01-14.md, packages/docs/news/2026-01-15.md, packages/docs/news/2026-01-16.md, packages/docs/news/2026-01-17.md, packages/docs/news/2026-01-18.md, packages/docs/news/2026-01-19.md, packages/docs/news/2026-01-20.md, packages/docs/news/2026-01-21.md, packages/docs/news/2026-01-22.md, packages/docs/news/2026-01-23.md, packages/docs/news/2026-01-24.md, packages/docs/news/2026-01-25.md, packages/docs/news/2026-01-26.md, packages/docs/news/2026-01-27.md, packages/docs/news/2026-01-28.md, packages/docs/news/2026-01-29.md, packages/docs/news/2026-01-30.md, packages/docs/news/2026-01-31.md, packages/docs/news/2026-02-01.md, packages/docs/news/2026-02-02.md, packages/docs/news/2026-02-03.md, packages/docs/news/2026-02-04.md, packages/docs/news/2026-02-05.md, packages/docs/news/2026-02-06.md, packages/docs/news/2026-02-07.md, packages/docs/news/2026-02-08.md, packages/docs/news/2026-02-09.md, packages/docs/news/2026-02-10.md, packages/docs/news/2026-02-11.md, packages/docs/news/2026-02-12.md, packages/docs/news/2026-02-13.md, packages/docs/news/2026-02-14.md, packages/docs/news/2026-02-15.md, packages/docs/news/2026-02-16.md, packages/docs/news/2026-02-17.md, packages/docs/news/2026-02-18.md, packages/docs/news/2026-02-19.md, packages/docs/news/2026-02-20.md, packages/docs/news/2026-02-21.md, packages/docs/news/2026-02-22.md, packages/docs/news/2026-02-23.md, packages/docs/news/2026-02-24.md, packages/docs/news/2026-02-25.md, packages/docs/news/2026-02-26.md, packages/docs/news/2026-02-27.md, packages/docs/news/2026-02-28.md, packages/docs/news/2026-03-01.md, packages/docs/news/2026-03-02.md, packages/docs/news/2026-03-03.md, packages/docs/news/2026-03-04.md, packages/docs/news/2026-03-05.md, packages/docs/news/2026-03-06.md, packages/docs/news/2026-03-07.md, packages/docs/news/2026-03-08.md, packages/docs/news/2026-03-09.md, packages/docs/news/2026-03-10.md, packages/docs/news/2026-03-11.md, packages/docs/news/2026-03-12.md, packages/docs/news/2026-03-13.md, packages/docs/news/2026-03-14.md, packages/docs/news/2026-03-15.md, packages/docs/news/2026-03-16.md, packages/docs/news/2026-03-17.md, packages/docs/news/2026-03-18.md, packages/docs/news/2026-03-19.md, packages/docs/news/2026-03-20.md, packages/docs/news/2026-03-21.md, packages/docs/news/2026-03-22.md, packages/docs/news/2026-03-23.md, packages/docs/news/2026-03-24.md, packages/docs/news/2026-03-25.md, packages/docs/news/2026-03-26.md, packages/docs/news/2026-03-27.md, packages/docs/news/2026-03-28.md, packages/docs/news/2026-03-29.md, packages/docs/news/2026-03-30.md, packages/docs/news/2026-03-31.md, packages/docs/news/2026-04-01.md, packages/docs/news/2026-04-02.md, packages/docs/news/2026-04-03.md, packages/docs/news/2026-04-04.md, packages/docs/news/2026-04-05.md, packages/docs/news/2026-04-06.md, packages/docs/news/2026-04-07.md, packages/docs/news/2026-04-08.md, packages/docs/news/2026-04-09.md, packages/docs/news/2026-04-10.md, packages/docs/news/2026-04-11.md, packages/docs/news/2026-04-12.md, packages/docs/news/2026-04-13.md, packages/docs/news/2026-04-14.md, packages/docs/news/2026-04-15.md, packages/docs/news/2026-04-16.md, packages/docs/news/2026-04-17.md, packages/docs/partners/**/brief.mdx, packages/docs/static/packages/**/*.md
 - Files matching these patterns are excluded: **/*.test.ts, **/__tests__/**, **/node_modules/**, packages/docs/community/**, packages/plugin-*/**, **/*.ico, **/*.png, **/*.jpg, **/*.svg
 - Files matching patterns in .gitignore are excluded
 - Files matching default ignore patterns are excluded
@@ -226,6 +226,7 @@ packages/
       2026-04-14.md
       2026-04-15.md
       2026-04-16.md
+      2026-04-17.md
 ```
 
 # Files
@@ -1828,54 +1829,6 @@ packages/
 - Anthropic keys rotated and shared with core developers
 ```
 
-## File: packages/docs/news/2026-04-16.md
-```markdown
-## ElizaOS Community Discussion - April 16, 2026
-
-### Token and Market Sentiment
-
-- Community members noted the ElizaOS token showed limited movement compared to the broader crypto market rally
-- Odilitime confirmed the token was up on a 24-hour basis and encouraged recognizing incremental gains
-
-### Project Direction and Team Updates
-
-- A community debate surfaced regarding project progress and team communication
-- One community member confirmed ElizaOS v3 is nearly ready
-- The team is actively working on the Milady app and Eliza app
-- Odilitime announced a developer discussion space focused on the limits of LLMs
-
-### ElizaOS X Account
-
-- Odilitime confirmed the ElizaOS X account update is in Twitter's hands
-- Community members called for a roadmap to be published given favorable market conditions
-
-### Token Migration
-
-- Odilitime confirmed the Ai16z to Eliza token migration window is closed with no workaround available
-
-### Community Project Highlight
-
-- A community member built a value layer on ElizaOS for the BNB Chain Hackathon, automating alpha discovery and intelligent position building
-- The project entered the judging phase on DoraHacks with results expected in May
-
-### Developer Activity
-
-- Stan reported to Odilitime that the topup auto feature is not functioning in the cloud environment
-
----
-
-## ElizaOS Development Activity - April 16, 2026
-
-### Developer Tooling
-
-- Standardized linting in the Ollama plugin by replacing relative biome paths with bunx invocations, ensuring consistent execution across environments
-- The related pull request is currently awaiting review
-
-### Plugin Ecosystem
-
-- A new plugin, megaswap-elizaos-plugin, has been submitted to the elizaos-plugins registry and is pending approval
-```
-
 ## File: packages/docs/news/2026-01-06.md
 ```markdown
 # ElizaOS Discord Community Update - January 6, 2026
@@ -1905,6 +1858,39 @@ packages/
 ## Recent GitHub Issues
 - Issue #6332: Performance problem with Turbo build consuming excessive memory (over 21GB)
 - Issue #6331: Bug where users encounter "Model not found" error when using agent IDs with API endpoints
+```
+
+## File: packages/docs/news/2026-04-17.md
+```markdown
+## ElizaOS Community Discussion - April 17, 2026
+
+### Team and Project Direction
+
+- Shaw confirmed he will continue building ElizaOS full time, with v3 nearing beta and several teams already building on it
+- Eliza Labs is winding down, with the project refocusing on its core framework
+- Core contributor Stan clarified that Labs was an experimental organization for sub-projects, and that GitHub activity continues from both remaining developers and community contributors
+- Other Labs projects are described as on hold
+- The new v3 version is designed to allow anyone to build their own fully branded autonomous agent
+- Community members discussed the project's history and its relationship to the ai16z branding
+
+### Community Activity
+
+- A Twitter Space titled "Limits of LLMs" hosted by Odilitime was shared in the general discussion channel
+- Multiple moderators issued a warning about a bulk airdrop scam circulating in the community
+
+### Developer Tools
+
+- A developer shared information about the Orbis API, including its AI Agent Memory API, which provides persistent memory for AI agents across sessions
+- The API uses four endpoints for storing, retrieving, and listing key-value data with TTL support
+- The Orbis Referral Program was introduced, allowing developers to earn 25 percent of payments from referred developers through subscriptions and per-call micropayments, paid in USDC
+
+## ElizaOS Development Activity
+
+### Open Pull Requests
+
+- plugin-evm repository: pull request submitted to add Radius Network support with chain identifier eip155:723487
+- plugin registry: submission pending to add the @thecolony/elizaos-plugin
+- plugin registry: submission pending to add the megalaunch-elizaos-plugin
 ```
 
 ## File: packages/docs/news/2026-01-07.md
@@ -5981,6 +5967,54 @@ No content to summarize.
   - Implements ERC-8004 trust scoring for x402 agents as Express middleware
   - Enables trust gating on any Express endpoint with a single import and one line of code
   - Documentation available on npmjs.com
+```
+
+## File: packages/docs/news/2026-04-16.md
+```markdown
+## ElizaOS Community Discussion - April 16, 2026
+
+### Token and Market Sentiment
+
+- Community members noted the ElizaOS token showed limited movement compared to the broader crypto market rally
+- Odilitime confirmed the token was up on a 24-hour basis and encouraged recognizing incremental gains
+
+### Project Direction and Team Updates
+
+- A community debate surfaced regarding project progress and team communication
+- One community member confirmed ElizaOS v3 is nearly ready
+- The team is actively working on the Milady app and Eliza app
+- Odilitime announced a developer discussion space focused on the limits of LLMs
+
+### ElizaOS X Account
+
+- Odilitime confirmed the ElizaOS X account update is in Twitter's hands
+- Community members called for a roadmap to be published given favorable market conditions
+
+### Token Migration
+
+- Odilitime confirmed the Ai16z to Eliza token migration window is closed with no workaround available
+
+### Community Project Highlight
+
+- A community member built a value layer on ElizaOS for the BNB Chain Hackathon, automating alpha discovery and intelligent position building
+- The project entered the judging phase on DoraHacks with results expected in May
+
+### Developer Activity
+
+- Stan reported to Odilitime that the topup auto feature is not functioning in the cloud environment
+
+---
+
+## ElizaOS Development Activity - April 16, 2026
+
+### Developer Tooling
+
+- Standardized linting in the Ollama plugin by replacing relative biome paths with bunx invocations, ensuring consistent execution across environments
+- The related pull request is currently awaiting review
+
+### Plugin Ecosystem
+
+- A new plugin, megaswap-elizaos-plugin, has been submitted to the elizaos-plugins registry and is pending approval
 ```
 
 
